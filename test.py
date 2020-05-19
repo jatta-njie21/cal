@@ -3,3 +3,11 @@ def input():
 	
 def modulos():
 	pass
+
+
+#Added new methods
+def add():
+	pass
+
+def minus():
+	pass
