@@ -29,9 +29,12 @@ def test():
 
 #Github mangeh nyow gappa mah
 #The end
-def TheEnd()
-	quit()
+#def TheEnd()
+#	quit()
+#TheEnd()
 
-TheEnd()
+def the_end():
+	pass
 
+the_end()
 
