@@ -29,5 +29,9 @@ def test():
 
 #Github mangeh nyow gappa mah
 #The end
+def TheEnd()
+	quit()
+
+TheEnd()
 
 
