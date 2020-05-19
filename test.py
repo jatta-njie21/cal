@@ -19,3 +19,11 @@ def times():
 
 def divide():
 	pass
+
+def test():
+	pass
+
+#checking everything works 
+#github rocks
+
+
