@@ -13,3 +13,9 @@ def minus():
 	pass
 
 #nakala
+
+def times():
+	pass
+
+def divide():
+	pass
